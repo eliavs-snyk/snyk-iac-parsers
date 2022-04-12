@@ -1,7 +1,7 @@
 module github.com/snyk/snyk-iac-parsers
 
 go 1.17
-
+// test commit
 require (
 	github.com/ghodss/yaml v1.0.0
 	github.com/hashicorp/hcl/v2 v2.6.0
