@@ -9,6 +9,7 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/tmccombs/hcl2json v0.3.1
 	github.com/zclconf/go-cty v1.6.1
+	// test
 )
 
 require (
